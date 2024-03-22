@@ -24,7 +24,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 url: https://mgStingray.github.io
-baseurl: /minimal-mistakes
+baseurl: /minimal-mistakes-test
 
 # Build settings
 markdown: kramdown
